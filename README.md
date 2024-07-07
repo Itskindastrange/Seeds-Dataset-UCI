@@ -44,7 +44,4 @@ This project was inspired by the Machine Learning course by Kylie Ying and FreeC
 - [Kylie Ying's GitHub](https://github.com/kying18)
 - [FreeCodeCamp Machine Learning Course on YouTube](https://www.youtube.com/watch?v=i_LwzRVP7bg&ab_channel=freeCodeCamp.org)
 
-## License
 
-This repository is licensed under the MIT License.
-# Seeds-Dataset-UCI
